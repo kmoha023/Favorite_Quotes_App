@@ -1,5 +1,6 @@
 {
   "name": "Favorite_Quotes_App",
   "app_id": "",
-  "type": "ionic-angular"
+  "type": "ionic-angular",
+  "integrations": {}
 }
